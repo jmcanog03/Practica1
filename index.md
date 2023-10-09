@@ -1,4 +1,4 @@
-#Práctica 1
+# Práctica 1
 
 **Texto en negrtia**
 
@@ -11,4 +11,6 @@ Para listar el contenido de un fichero en linux `ls -l`
     * Item 1.2
 
 
-| Encabezado 1 | Encabezado 2
+| Encabezado 1 | Encabezado 2 |
+|:--------------|:--------------:|
+| **hola 1** | *hola2*
